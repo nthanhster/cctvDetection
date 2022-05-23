@@ -1,4 +1,13 @@
-# YOLOv4-Cloud-Tutorial
+# YOLOv4-forked
+
+This is a simple implementation of yolov4 onto cctv broadcasted over youtube live video.
+
+Please click on the icon. 
+<a href="https://colab.research.google.com/drive/1vmQM8t9u42xqrC80WOpdQph_ceB22tSv?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
+All credits to https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial.
+
+# Original description below
 [![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
 
 This repository walks you through how to Build, Train and Run YOLOv4 Object Detections with Darknet in the Cloud through Google Colab.
